@@ -98,6 +98,22 @@ dist
 # Sveltekit cache directory
 .svelte-kit/
 
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Python artifacts (for the workspace root if any)
+__pycache__/
+*.pyc
+venv/
+.env
+
+
 # vitepress build output
 **/.vitepress/dist
 
