@@ -2,6 +2,12 @@
 <p align="center"><b>An AI-Powered Indian Health & Nutrition Ecosystem</b></p>
 <p align="center"><i>HackIndia Spark-7 North Region | Team: Udaan</i></p>
 
+
+
+https://github.com/user-attachments/assets/6b41de32-c571-483a-8d7d-c905bda11102
+
+
+
 ## 🚀 Overview
 **Aahar** is a cutting-edge, hyper-localized health and fitness mobile application specifically designed for the Indian market. While Western apps struggle with Indian food variations ("Curry Confusion"), **Aahar** uses 2026 Vision-Language AI to "see," understand, and deconstruct complex Indian meals. It goes beyond generic calorie counts by breaking down a cooked meal (like *Paneer Butter Masala*) into raw ingredients (e.g., Atta, Ghee) using the gold-standard ICMR-NIN database.
 
